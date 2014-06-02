@@ -21,38 +21,50 @@
     font-weight: normal;
     font-style: normal;
 }
-
 body{
-
-
+    background: url("../img/tweed.png") repeat;
+    
 }
 
-.about,.menu{
+.sub-nav{
+    background: #eee;
+}
+
+
+.about {
     border-bottom: 1px solid #eee;
 }
 
 .yellow{
-    background: yellow;
+    background: rgba(252, 252, 3, .25);
 }
 .lightblue{
-    background: lightblue;
+    background: rgba(170, 216, 231, .25);
 }
 .red{
-    background: red;
+    background: rgba(250, 3, 3, .25);
+
 }
 .purple{
-    background: purple;
+    background: rgba(126, 0, 126, .25);
 }
 .darkblue{
-    background: darkblue;
+    background: rgba(2, 2, 247, .25);
 }
 .green{
-    background: green;
+    background: rgba(1, 124, 1, .25);
 }
 
 .googleMap{
     padding-bottom: 10px;
 }
+
+.contact{
+    border-top: 1px solid #eee;
+}
+
+
+
 
 
 
