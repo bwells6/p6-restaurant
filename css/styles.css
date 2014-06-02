@@ -27,7 +27,41 @@ body{
 
 }
 
-.about{
+.about,.menu{
     border-bottom: 1px solid #eee;
 }
+
+.yellow{
+    background: yellow;
+}
+.lightblue{
+    background: lightblue;
+}
+.red{
+    background: red;
+}
+.purple{
+    background: purple;
+}
+.darkblue{
+    background: darkblue;
+}
+.green{
+    background: green;
+}
+
+.googleMap{
+    padding-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
 
